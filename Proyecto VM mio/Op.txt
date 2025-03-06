@@ -1,0 +1,14 @@
+LI x1, 5
+LI x2, 71
+LI x3, 10
+ADD x4, x1, x2
+ADD x5, x3, x4
+SUBI x6, x5, 100
+LI x1, 50
+DIV x10, x1, x3
+MUL x11, x10, x3
+MULI x12, x10, 10
+DIVI x13, x3, 4
+ADDI x15, x11, 75
+SUB x16, x4, x3
+END
